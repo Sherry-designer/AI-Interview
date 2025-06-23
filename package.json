@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "spark-nodejs": "^0.0.6"
+  }
+}
